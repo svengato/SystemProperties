@@ -1,0 +1,1 @@
+java -Xdock:name="Java System Properties" -cp SystemProperties.jar SystemPropertiesPanel
